@@ -1,0 +1,7 @@
+PROJECT TITLE: OCR [ OPTICAL CHARACTER RECOGNITION ]
+VERSION: 1.0.0
+DATE: 02-April-2020
+AUTHORS: Jaysmito Mukherjee
+DEVELOPER: Jaysmito Mukherjee
+OWNER: Jaysmito Mukherjee
+USER INSTRUCTIONS: Do not use wrong DATASET.
